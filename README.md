@@ -10,8 +10,7 @@ Information retrieval (IR) is the area of study concerned with searching for doc
 The system is simple and easy to use. There are two ways for you to extract nd retriev the information in this system.
 1. Enter URL that contained text documents
 2. Enter your text document directly
-
-Click submit button and the magic will happen. THe system will provide and retrieve you the information.
+Click submit button and the magic will happen. The system will provide and retrieve you the information.
 
 
 ### Features
